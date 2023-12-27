@@ -1,7 +1,3 @@
-
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
 <!-- BREVE DESCRIPCION -->
 <p align="center" width="300">
    <img align="center" width="200" src="https://media.licdn.com/dms/image/C4E03AQFk1IC5mIe3Ew/profile-displayphoto-shrink_800_800/0/1658259158072?e=2147483647&v=beta&t=ibucAXIcyD-RB8B-BsBImTw58yA2qYFNVG0QpkUFvg8" />

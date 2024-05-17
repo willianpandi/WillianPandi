@@ -4,7 +4,7 @@
    <h3 align="center">¡Hey 👋! Soy Willian Pandi 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Ing. en Tecnologías de la Información y Comunicación,</strong> egresado de la UNACH.<br /></p>
+<p align="center">Soy <strong>Ing. en Tecnologías de la Información,</strong> egresado de la UNACH.<br /></p>
 
 <!-- CONTACTO -->
 <h3 align="center">Contactos</h3>

@@ -1,6 +1,6 @@
 <!-- BREVE DESCRIPCION -->
 <p align="center" width="300">
-   <img align="center" width="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1553052973948862464%2FeEda8DWM_400x400.jpg&tbnid=i_p0eBT3lkt8PM&vet=12ahUKEwi8s_r505OGAxV_OVkFHYU1DZcQMygBegQIARAy..i&imgrefurl=https%3A%2F%2Ftwitter.com%2Fwillianpandi&docid=UaL4cR3nsGwFWM&w=400&h=400&itg=1&q=willian%20pandi&ved=2ahUKEwi8s_r505OGAxV_OVkFHYU1DZcQMygBegQIARAy" />
+   <img align="center" width="200" src="https://pbs.twimg.com/profile_images/1553052973948862464/eEda8DWM_400x400.jpg" />
    <h3 align="center">¡Hey 👋! Soy Willian Pandi 👨🏻‍💻</h3>
 </p>
 

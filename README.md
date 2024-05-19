@@ -1,10 +1,10 @@
 <!-- BREVE DESCRIPCION -->
 <p align="center" width="300">
-   <img align="center" width="200" src="https://pbs.twimg.com/profile_images/1553052973948862464/eEda8DWM_400x400.jpg" />
+<!--    <img align="center" width="200" src="https://pbs.twimg.com/profile_images/1553052973948862464/eEda8DWM_400x400.jpg" /> -->
    <h3 align="center">¡Hey 👋! Soy Willian Pandi 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Ing. en Tecnologías de la Información,</strong> egresado de la UNACH.<br /></p>
+<p align="center">Soy <strong>Ingeniero en Tecnologías de la Información,</strong> egresado de la UNACH.<br /></p>
 
 <!-- CONTACTO -->
 <h3 align="center">Contactos</h3>
